@@ -1,0 +1,1 @@
+this is an authentication template with javascript and node.js .
