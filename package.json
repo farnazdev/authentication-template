@@ -1,0 +1,24 @@
+{
+  "name": "authentication-template",
+  "version": "1.0.0",
+  "description": "an authentication template",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farnazdev/authentication-template.git"
+  },
+  "author": "farnazdev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/farnazdev/authentication-template/issues"
+  },
+  "homepage": "https://github.com/farnazdev/authentication-template#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^9.0.0"
+  }
+}
